@@ -16,6 +16,6 @@ bio/nishant/tasks/domain/entities/dto/ErrorResponse.class
 bio/nishant/tasks/repositories/TaskListRepository.class
 bio/nishant/tasks/domain/entities/Task.class
 bio/nishant/tasks/controller/TaskController.class
-bio/nishant/tasks/domain/entities/TaskStatus.class
 bio/nishant/tasks/repositories/TaskRepository.class
+bio/nishant/tasks/domain/entities/TaskStatus.class
 bio/nishant/tasks/services/impl/TaskListServiceImpl.class
